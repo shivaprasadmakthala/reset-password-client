@@ -1,4 +1,4 @@
-export const host = "";
+export const host = "https://reset-password-server-z7ql.onrender.com/";
 
 export const loginRoute = `${host}/user/login`;
 export const registerRoute = `${host}/user/register`;
